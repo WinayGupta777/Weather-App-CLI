@@ -1,0 +1,7 @@
+// TODO: Below is just a sample, need to modify.
+
+┌─────────────────┐
+│                 │
+│   Weather App   │
+│                 │
+└─────────────────┘
